@@ -1,4 +1,5 @@
-# online-shop-code
+# PHP and MySql online-shop-code for UoA Undergraduate Project - Rujia Liu
+
 
 
 first import the db.sql file located at database/db.sql
